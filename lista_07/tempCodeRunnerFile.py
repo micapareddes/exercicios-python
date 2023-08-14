@@ -1,1 +1,0 @@
-ne_counter += 1

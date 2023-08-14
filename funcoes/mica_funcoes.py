@@ -146,4 +146,3 @@ def is_regular_matrix(matrix):
         if len(row) != first_row_size:
             return []
     return [len(matrix), first_row_size]
-""""Verifica se a matriz é quadrada"""

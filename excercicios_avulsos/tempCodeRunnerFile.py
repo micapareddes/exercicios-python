@@ -1,1 +1,0 @@
- Se action não é numero válido
