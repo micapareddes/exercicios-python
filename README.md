@@ -5,7 +5,7 @@
   
 ## Sobre o Projeto
 
-Este repositório contém uma série de exercícios realizados para aprender lógica de programação e os fundamentos da computação usando Python, baseando-se nas aulas de introdução à computação do professor Elder da Universidade Federal de Santa Catarina (UFSC). O objetivo é praticar e consolidar conhecimentos essenciais de programação e Python.
+Este repositório contém uma série de exercícios realizados para aprender lógica de programação e os fundamentos da computação usando Python, baseando-se nas aulas de introdução à computação do professor Elder da Universidade Federal de Santa Catarina (UFSC). O objetivo é praticar e consolidar conhecimentos essenciais de programação em Python.
 
 ## Conteúdos Abordados
 
